@@ -1,0 +1,11 @@
+import java.lang.*;
+
+class skeletonJava
+{
+public static void main(String[] args)
+{
+System.out.println("Hey How Are you I hope you Good :) ");
+}
+}
+
+// skeleton.java ------> skeleton.class 
